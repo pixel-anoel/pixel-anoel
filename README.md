@@ -1,9 +1,11 @@
 - 👋 Hi, I’m @pixel-anoel (Amaya!)
-- 👀 I’m interested in traveling, fashion, and yoga. 
-- 🌱 I’m currently learning how to code with python and how to crochet.
-- 💞️ I’m looking to collaborate on learning new ways to incorporate coding into everyday life.
-- 📫 How to reach me: Aolive56@students.kennesaw.edu
-- 😄 Pronouns: She/Her/Hers
+🎓 Information Systems major | 📊 Learning Data Science | 💻 Python | SQL | Tableau
+
+### 🧠 What I’m Learning
+- Data analysis with Python (Pandas, Matplotlib)
+- Machine Learning basics (scikit-learn)
+- SQL for analytics
+- Data visualization with Tableau & Python
 
 
 <!---
